@@ -1,4 +1,4 @@
 #main code
-from my_guy import MyGUI
+from main_guy import MainGUI
 
-main_window = MyGUI()
+main_window = MainGUI()
